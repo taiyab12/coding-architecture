@@ -32,5 +32,6 @@ npm install -g jsdoc
 1.step 4
 
 ![Nature is nice love it...](calculator/images/nature1.jpeg)
-Format: ![Alt Text](url)
-
+Format: ![Enjoy the nature](url)
+![Nature is nice love it...](calculator/images/nature2.jpeg)
+Format: ![Enjoy the nature](url)
