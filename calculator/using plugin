@@ -1,11 +1,13 @@
 # markdown-demo
 
-dumnytext dumnytext dumnytext dumnytext 
+dumnytext *italic* dumnytext dumnytext dumnytext 
 
 Heading 1
 ===========
-
+dumnytext *italic* dumnytext dumnytext dumnytext dumnytext _dumnytext_ dumnytext dumnytext
 Heading 2
 --------
+dumnytext **bold** dumnytext dumnytext dumnytext dumnytext _dumnytext_ dumnytext dumnytext
+
 
 ### Heading 3
