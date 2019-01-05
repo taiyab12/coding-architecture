@@ -31,6 +31,6 @@ npm install -g jsdoc
 1.step 3
 1.step 4
 
-![GitHub Logo](/images/logo.png)
+![Nature is nice love it...](calculator/images/nature1.jpeg)
 Format: ![Alt Text](url)
 
